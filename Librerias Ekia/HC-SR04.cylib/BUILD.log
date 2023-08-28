@@ -1,0 +1,3 @@
+--------------- Build Started: 09/15/2020 22:11:04 Project: HC-SR04, Configuration: ARM GCC Generic Release ---------------
+ERROR: No location was selected for the binaries of the tool chain "ARM GCC Generic". The tool chain will not build until a location is selected. Use Tools > Options > Project Management > Generic Toolchains to set the location of the appropriate binaries
+--------------- Build Failed: 09/15/2020 22:11:04 ---------------

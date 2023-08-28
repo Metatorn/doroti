@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Components">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Librerias Ekia</v>
+<v>Librerias Ekia\A6_GSM</v>
+<v>Librerias Ekia\A6_GSM\Header Files</v>
+<v>Librerias Ekia\A6_GSM\Source Files</v>
+<v>Librerias Ekia\AUDIO_EKIA</v>
+<v>Librerias Ekia\AUDIO_EKIA\Header Files</v>
+<v>Librerias Ekia\AUDIO_EKIA\Source Files</v>
+<v>Librerias Ekia\HC-SR04</v>
+<v>Librerias Ekia\HC-SR04\Header Files</v>
+<v>Librerias Ekia\HC-SR04\Source Files</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\Header Files</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\Source Files</v>
+<v>Librerias Ekia\HX711_lib</v>
+<v>Librerias Ekia\HX711_lib\Header Files</v>
+<v>Librerias Ekia\HX711_lib\Source Files</v>
+<v>Librerias Ekia\Modulo SIM800</v>
+<v>Librerias Ekia\Modulo SIM800\Header Files</v>
+<v>Librerias Ekia\Modulo SIM800\Source Files</v>
+<v>Librerias Ekia\protocoloMDB</v>
+<v>Librerias Ekia\protocoloMDB\Header Files</v>
+<v>Librerias Ekia\protocoloMDB\Source Files</v>
+<v>Librerias Ekia\RTC_EKIA</v>
+<v>Librerias Ekia\RTC_EKIA\Header Files</v>
+<v>Librerias Ekia\RTC_EKIA\Source Files</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Librerias Ekia</v>
+<v>Librerias Ekia\A6_GSM</v>
+<v>Librerias Ekia\A6_GSM\Header Files</v>
+<v>Librerias Ekia\A6_GSM\Source Files</v>
+<v>Librerias Ekia\AUDIO_EKIA</v>
+<v>Librerias Ekia\AUDIO_EKIA\Header Files</v>
+<v>Librerias Ekia\AUDIO_EKIA\Source Files</v>
+<v>Librerias Ekia\HC-SR04</v>
+<v>Librerias Ekia\HC-SR04\Header Files</v>
+<v>Librerias Ekia\HC-SR04\Source Files</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\Header Files</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\Source Files</v>
+<v>Librerias Ekia\HX711_lib</v>
+<v>Librerias Ekia\HX711_lib\Header Files</v>
+<v>Librerias Ekia\HX711_lib\Source Files</v>
+<v>Librerias Ekia\Modulo SIM800</v>
+<v>Librerias Ekia\Modulo SIM800\Header Files</v>
+<v>Librerias Ekia\Modulo SIM800\Source Files</v>
+<v>Librerias Ekia\protocoloMDB</v>
+<v>Librerias Ekia\protocoloMDB\Header Files</v>
+<v>Librerias Ekia\protocoloMDB\Source Files</v>
+<v>Librerias Ekia\RTC_EKIA</v>
+<v>Librerias Ekia\RTC_EKIA\Header Files</v>
+<v>Librerias Ekia\RTC_EKIA\Source Files</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Librerias Ekia</v>
+<v>Librerias Ekia\A6_GSM</v>
+<v>Librerias Ekia\A6_GSM\A6</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API\A6.c</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API\A6.h</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API\MQTT.c</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API\MQTT.h</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\A6.cysch</v>
+<v>Librerias Ekia\A6_GSM\A6\A6.cysym</v>
+<v>Librerias Ekia\AUDIO_EKIA</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5\API</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5\API\AUDIO.c</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5\API\AUDIO.h</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5\AUDIO_EKIA.cysch</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\AUDIO_EKIA.cysym</v>
+<v>Librerias Ekia\HC-SR04</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5\API</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5\API\Ultrasonido.c</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5\API\Ultrasonido.h</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5\Ultrasonido.cysch</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\Ultrasonido.cysym</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5\API</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5\API\HMI.c</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5\API\HMI.h</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5\HMI_EKIA.cysch</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\HMI_EKIA.cysym</v>
+<v>Librerias Ekia\HX711_lib</v>
+<v>Librerias Ekia\HX711_lib\HX711_sm1_v1_0</v>
+<v>Librerias Ekia\HX711_lib\HX711_sm1_v1_0\HX711_sm1_v1_0.cysym</v>
+<v>Librerias Ekia\HX711_lib\HX711_v1_0</v>
+<v>Librerias Ekia\HX711_lib\HX711_v1_0\API</v>
+<v>Librerias Ekia\HX711_lib\HX711_v1_0\API\HX711.c</v>
+<v>Librerias Ekia\HX711_lib\HX711_v1_0\API\HX711.h</v>
+<v>Librerias Ekia\HX711_lib\HX711_v1_0\HX711_v1_0.cysch</v>
+<v>Librerias Ekia\HX711_lib\HX711_v1_0\HX711_v1_0.cysym</v>
+<v>Librerias Ekia\HX711_lib\HX711_v1_0\HX711_v1_0.pdf</v>
+<v>Librerias Ekia\HX711_lib\HX711b_sm1_v1_0</v>
+<v>Librerias Ekia\HX711_lib\HX711b_sm1_v1_0\HX711b_sm1_v1_0.cysym</v>
+<v>Librerias Ekia\Modulo SIM800</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L\PSoC5</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L\PSoC5\API</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L\PSoC5\API\MQTT.c</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L\PSoC5\API\MQTT.h</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L\PSoC5\API\SIM800L.c</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L\PSoC5\API\SIM800L.h</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L\PSoC5\SIM800L.cysch</v>
+<v>Librerias Ekia\Modulo SIM800\SIM800L\SIM800L.cysym</v>
+<v>Librerias Ekia\protocoloMDB</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\API</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\API\billetero.c</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\API\billetero.h</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\API\MDB.c</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\API\MDB.h</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\API\MDB_Tipos.h</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\API\monedero.c</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\API\monedero.h</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\PSoC5\MDB_EKIA.cysch</v>
+<v>Librerias Ekia\protocoloMDB\MDB_EKIA\MDB_EKIA.cysym</v>
+<v>Librerias Ekia\RTC_EKIA</v>
+<v>Librerias Ekia\RTC_EKIA\RTC_EKIA</v>
+<v>Librerias Ekia\RTC_EKIA\RTC_EKIA\PSoC5</v>
+<v>Librerias Ekia\RTC_EKIA\RTC_EKIA\PSoC5\API</v>
+<v>Librerias Ekia\RTC_EKIA\RTC_EKIA\PSoC5\API\RTC_EKIA.c</v>
+<v>Librerias Ekia\RTC_EKIA\RTC_EKIA\PSoC5\API\RTC_EKIA.h</v>
+<v>Librerias Ekia\RTC_EKIA\RTC_EKIA\PSoC5\RTC_EKIA.cysch</v>
+<v>Librerias Ekia\RTC_EKIA\RTC_EKIA\RTC_EKIA.cysym</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Librerias Ekia</v>
+<v>Librerias Ekia\A6_GSM</v>
+<v>Librerias Ekia\A6_GSM\A6</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API\A6.c</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API\A6.h</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API\MQTT.c</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\API\MQTT.h</v>
+<v>Librerias Ekia\A6_GSM\A6\PSoC5\A6.cysch</v>
+<v>Librerias Ekia\A6_GSM\A6\A6.cysym</v>
+<v>Librerias Ekia\AUDIO_EKIA</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5\API</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5\API\AUDIO.c</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5\API\AUDIO.h</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\PSoC5\AUDIO_EKIA.cysch</v>
+<v>Librerias Ekia\AUDIO_EKIA\AUDIO_EKIA\AUDIO_EKIA.cysym</v>
+<v>Librerias Ekia\HC-SR04</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5\API</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5\API\Ultrasonido.c</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5\API\Ultrasonido.h</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\PSoC5\Ultrasonido.cysch</v>
+<v>Librerias Ekia\HC-SR04\Ultrasonido\Ultrasonido.cysym</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5\API</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5\API\HMI.c</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5\API\HMI.h</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\PSoC5\HMI_EKIA.cysch</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01\HMI_EKIA\HMI_EKIA.cysym</v>
+<v>Librerias Ekia\HX711_lib</v>
+<v>Librerias Ekia\HX711_lib\HX711_sm1_v1_0</v>
+<v>Librerias Ekia\HX711_lib\HX711_sm1_v1_0\HX711_sm1_v1_0.cysym</v>
+<v>Librerias Ekia\HX711_lib\HX711_v1_0</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Librerias Ekia</v>
+<v>Librerias Ekia\A6_GSM</v>
+<v>Librerias Ekia\AUDIO_EKIA</v>
+<v>Librerias Ekia\HC-SR04</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01</v>
+<v>Librerias Ekia\HX711_lib</v>
+<v>Librerias Ekia\Modulo SIM800</v>
+<v>Librerias Ekia\protocoloMDB</v>
+<v>Librerias Ekia\protocoloMDB\CortexM3</v>
+<v>Librerias Ekia\protocoloMDB\CortexM3\ARM_GCC_Generic</v>
+<v>Librerias Ekia\protocoloMDB\CortexM3\ARM_GCC_Generic\Debug</v>
+<v>Librerias Ekia\protocoloMDB\CortexM3\ARM_GCC_Generic\Debug\protocoloMDB.a</v>
+<v>Librerias Ekia\RTC_EKIA</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Librerias Ekia</v>
+<v>Librerias Ekia\A6_GSM</v>
+<v>Librerias Ekia\AUDIO_EKIA</v>
+<v>Librerias Ekia\HC-SR04</v>
+<v>Librerias Ekia\HMI_EKIA_v1_01</v>
+<v>Librerias Ekia\HX711_lib</v>
+<v>Librerias Ekia\Modulo SIM800</v>
+<v>Librerias Ekia\protocoloMDB</v>
+<v>Librerias Ekia\protocoloMDB\CortexM3</v>
+<v>Librerias Ekia\protocoloMDB\CortexM3\ARM_GCC_Generic</v>
+<v>Librerias Ekia\protocoloMDB\CortexM3\ARM_GCC_Generic\Debug</v>
+<v>Librerias Ekia\protocoloMDB\CortexM3\ARM_GCC_Generic\Debug\protocoloMDB.a</v>
+<v>Librerias Ekia\RTC_EKIA</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Librerias Ekia</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Librerias Ekia</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\RTC_EKIA.cylib\RTC_EKIA\PSoC5\API\RTC_EKIA.c" />
+<name v=".\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\monedero.h" />
+<name v=".\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\monedero.c" />
+<name v=".\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\MDB.c" />
+<name v=".\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\billetero.c" />
+<name v=".\Modulo SIM800.cylib\SIM800L\PSoC5\API\SIM800L.c" />
+<name v="..\MaquinaVending\principal.cydsn\Generated_Source\PSoC5\MDB.c" />
+<name v="..\MaquinaVending\principal.cydsn\Generated_Source\PSoC5\MDB_billetero.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Vertical"><TabbedMdiContainer Size="618, 582" SelectedTabbedMdiWindow="d9794a3f-d630-4ecf-a898-15cb081bdd03"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="19a4fd1a-a081-49e9-a50f-ef1fe2bd12b5" /><DocumentWindow Key="\\Mac\Home\Documents\Psoc_Creator\EKIA\MaquinaVending\Librerias Ekia\RTC_EKIA.cylib\RTC_EKIA\PSoC5\API\RTC_EKIA.c" Guid="26c78b66-0a52-48cf-a973-a5a32125aeb3" /><DocumentWindow Key="\\Mac\Home\Documents\Psoc_Creator\EKIA\MaquinaVending\Librerias Ekia\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\monedero.h" Guid="3e19c768-7f62-4f04-8ce8-2dac9017271a" /><DocumentWindow Key="\\Mac\Home\Documents\Psoc_Creator\EKIA\MaquinaVending\Librerias Ekia\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\monedero.c" Guid="3b549f51-48e4-4453-93a7-b0b095f9ef3d" /><DocumentWindow Key="\\Mac\Home\Documents\Psoc_Creator\EKIA\MaquinaVending\Librerias Ekia\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\MDB.c" Guid="04db52d1-28e7-4e82-b818-23533ac87789" /><DocumentWindow Key="\\Mac\Home\Documents\Psoc_Creator\EKIA\MaquinaVending\Librerias Ekia\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\billetero.c" Guid="d9794a3f-d630-4ecf-a898-15cb081bdd03" /></TabbedMdiContainer><TabbedMdiContainer Size="620, 582" SelectedTabbedMdiWindow="173e60a1-d816-4d05-9b5d-009829e906f5"><DocumentWindow Key="\\Mac\Home\Documents\Psoc_Creator\EKIA\MaquinaVending\Librerias Ekia\Modulo SIM800.cylib\SIM800L\PSoC5\API\SIM800L.c" Guid="c6f4e5f5-4d4a-4e31-82f6-8770ba434b5f" /><DocumentWindow Key="\\Mac\Home\Documents\Psoc_Creator\EKIA\MaquinaVending\MaquinaVending\principal.cydsn\Generated_Source\PSoC5\MDB.c" Guid="4db3e81d-5074-4a16-9be7-c1bec68168ce" /><DocumentWindow Key="\\Mac\Home\Documents\Psoc_Creator\EKIA\MaquinaVending\MaquinaVending\principal.cydsn\Generated_Source\PSoC5\MDB_billetero.c" Guid="173e60a1-d816-4d05-9b5d-009829e906f5" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

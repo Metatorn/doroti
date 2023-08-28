@@ -1,0 +1,12 @@
+--------------- Rebuild Started: 08/04/2018 11:01:24 Project: EKIA Bootloader P5LP, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+Deleting file ".\EKIA Bootloader P5LP.cycdx"
+Deleting file ".\EKIA Bootloader P5LP.svd"
+Deleting file ".\EKIA Bootloader P5LP.rpt"
+Deleting file ".\EKIA Bootloader P5LP_timing.html"
+cydsfit.exe -.appdatapath "C:\Users\Macbook\AppData\Local\Cypress Semiconductor\PSoC Creator\4.2" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p "C:\Users\Macbook\Workspace.psoc\MaquinaVending\EKIA Bootloader P5LP.cydsn\EKIA Bootloader P5LP.cyprj" -d CY8C5287AXI-LP095 -s "C:\Users\Macbook\Workspace.psoc\MaquinaVending\EKIA Bootloader P5LP.cydsn\Generated_Source\PSoC5" -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+ADD: pft.M0046: error: The selected Bootloader IO component is not correctly configured for use with the Bootloader. Error: 'Current configuration cannot support a bootloader. The following configurations should be used: (1) Endpoint Number: EP1, Direction: OUT, Transfer Type: INT, Max Packet Size: 64; (2) Endpoint Number: EP2, Direction: IN, Transfer Type: INT, Max Packet Size: 64.'
+ * C:\Users\Macbook\Workspace.psoc\MaquinaVending\EKIA Bootloader P5LP.cydsn\TopDesign\PSoC5\TopDesign.cysch (Instance:USBFS)
+ADD: pft.M0044: error: The Bootloader requires a bootloader supporting IO component in order to transfer a new application into flash.
+Error: fit.M0050: The fitter aborted due to errors, please address all errors and rebuild. (App=cydsfit)
+--------------- Rebuild Failed: 08/04/2018 11:02:42 ---------------

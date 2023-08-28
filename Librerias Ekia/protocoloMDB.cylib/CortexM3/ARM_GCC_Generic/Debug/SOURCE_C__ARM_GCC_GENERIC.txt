@@ -1,0 +1,1 @@
+'\\Mac\Home\Documents\PSoC Creator\Librerias Ekia\protocoloMDB.cylib\MDB_EKIA\PSoC5\API\MDB.c' -o .o -T SOURCE_C__ARM_GCC_GENERIC -f '\\Mac\Home\Documents\PSoC Creator\Librerias Ekia\protocoloMDB.cylib\CortexM3\ARM_GCC_Generic\Debug\.deps\SOURCE_C__ARM_GCC_GENERIC.d'

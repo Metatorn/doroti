@@ -1,0 +1,97 @@
+--------------- Build Started: 02/17/2020 19:13:40 Project: Dispensador, Configuration: ARM GCC 5.4-2016-q2-update Release ---------------
+cydsfit.exe -.appdatapath "C:\Users\PRECIO\AppData\Local\Cypress Semiconductor\PSoC Creator\4.2" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -.fdsreffile=referenced_files.txt -p C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador.cyprj -d CY8C5287AXI-LP095 -s C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Generated_Source\PSoC5 -- -yv2 -q10 -yga -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+ADD: sdb.M0065: information: Analog terminal "vdac_ref" on ADC_SAR_SEQ_v2_0 is unconnected.
+ * C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\ADC_SAR_SEQ_v2_0\PSoC5\ADC_SAR_SEQ_v2_0.cysch (Signal: vdac_ref)
+ * C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\ADC_SAR_SEQ_v2_0\PSoC5\ADC_SAR_SEQ_v2_0.cysch (Shape_798)
+ * C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\CyComponentLibrary\CyComponentLibrary.cylib\ADC_SAR_SEQ_v2_0\PSoC5\ADC_SAR_SEQ_v2_0.cysch (Shape_885)
+HDL Generation...
+Synthesis...
+Tech Mapping...
+ADD: pft.M0040: information: The following 4 pin(s) will be assigned a location by the fitter: Puerta(0), Refrigeracion(0), Sensor_Canasta1(0), Sensor_Canasta2(0)
+Info: plm.M0038: The pin named BloqueoFila(3) at location P12[4] prevents usage of special purposes: I2C:SCL. (App=cydsfit)
+Info: plm.M0038: The pin named bandeja(1) at location P12[0] prevents usage of special purposes: I2C:SCL. (App=cydsfit)
+Analog Placement...
+Info: apr.M0002: Analog signal "Net_2297" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2480" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2481" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2300" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2301" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2303" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2305" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2306" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2308" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2310" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2311" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2313" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2315" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2316" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2318" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2320" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2321" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2323" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2325" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2326" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2328" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2330" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2331" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2333" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2335" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2336" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2338" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2340" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2341" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2343" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2345" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2346" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2348" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2350" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2351" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2353" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2355" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2356" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2358" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2360" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2361" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2363" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2365" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2366" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2368" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2370" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2371" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2372" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2373" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2374" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2375" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2376" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2377" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2378" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2379" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2380" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2381" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2382" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2383" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2384" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2385" is connected to one terminal only. (App=cydsfit)
+Info: apr.M0002: Analog signal "Net_2386" is connected to one terminal only. (App=cydsfit)
+Analog Routing...
+Analog Code Generation...
+Digital Placement...
+Warning: sta.M0019: Dispensador.rpt: Warning-1361: The design contains a combinational loop. Check the design for unintentional latches. Breaking the loop at Net_2631/q --> Net_2631/main_0  (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador.rpt)
+Digital Routing...
+Bitstream Generation...
+Bitstream Verification...
+Static timing analysis...
+Warning: sta.M0019: Dispensador.rpt: Warning-1361: The design contains a combinational loop. Check the design for unintentional latches. Breaking the loop at Net_2631/main_0 --> Net_2631/q  (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador.rpt)
+Warning: sta.M0021: Dispensador_timing.html: Warning-1350: Asynchronous path(s) exist from "ClockBlock/dclk_glb_ff_4" to "contadorBit". See the timing report for details. (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador_timing.html)
+Warning: sta.M0021: Dispensador_timing.html: Warning-1350: Asynchronous path(s) exist from "ClockBlock/dclk_glb_ff_4" to "CyBUS_CLK". See the timing report for details. (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador_timing.html)
+Warning: sta.M0019: Dispensador_timing.html: Warning-1366: Setup time violation found in a path from clock ( CyBUS_CLK ) to clock ( CyBUS_CLK ). (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador_timing.html)
+Warning: sta.M0019: Dispensador_timing.html: Warning-1366: Setup time violation found in a path from clock ( contadorBit ) to clock ( CyBUS_CLK ). (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador_timing.html)
+Warning: sta.M0019: Dispensador_timing.html: Warning-1366: Setup time violation found in a path from clock ( Reloj_Alta ) to clock ( CyBUS_CLK ). (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador_timing.html)
+Warning: sta.M0019: Dispensador_timing.html: Warning-1366: Setup time violation found in a path from clock ( Reloj_Alta ) to clock ( contadorBit ). (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador_timing.html)
+Warning: sta.M0019: Dispensador_timing.html: Warning-1366: Setup time violation found in a path from clock ( Clock_2 ) to clock ( CyBUS_CLK ). (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador_timing.html)
+Warning: sta.M0019: Dispensador_timing.html: Warning-1366: Setup time violation found in a path from clock ( Clock_2 ) to clock ( contadorBit ). (File=C:\Users\PRECIO\Workspace.psoc\EKIA\EkiaDoroti\Dispensador.cydsn\Dispensador_timing.html)
+API Generation...
+Dependency Generation...
+Cleanup...
+--------------- Build Succeeded: 02/17/2020 19:14:50 ---------------
